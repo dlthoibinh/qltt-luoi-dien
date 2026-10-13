@@ -1,0 +1,33 @@
+{
+  "id": "./",
+  "name": "Quản lý tồn tại lưới điện",
+  "short_name": "Tồn tại lưới điện",
+  "description": "Ghi nhận và theo dõi tồn tại lưới điện của đơn vị",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#edf2f5",
+  "theme_color": "#1767c2",
+  "icons": [
+    {
+      "src": "icons/app-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/app-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/app-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
