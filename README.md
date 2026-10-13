@@ -4,6 +4,12 @@ Giao diện web 1.12.1 dành cho việc ghi nhận và theo dõi tồn tại lư
 
 [Cài Android hoặc iPhone](https://dlthoibinh.github.io/qltt-luoi-dien/install.html) · [Mở ứng dụng](https://dlthoibinh.github.io/qltt-luoi-dien/).
 
+## Cập nhật Android
+
+Từ APK 2.15.0, ứng dụng tự kiểm tra bản mới ở nền và tải sẵn khi có Wi-Fi phù hợp. Người dùng xác nhận cài đặt khi sẵn sàng; không cần gỡ bản cũ. Muốn kiểm tra ngay, chọn **Menu → Cập nhật ứng dụng**. Các bản 2.14.0 trở về trước cần tải và cài đè bản mới từ trang cài đặt một lần.
+
+Mỗi lần phát hành phải đưa lên cùng bộ: APK mới trong `downloads/`, `install.html` và `android-update.json`. Chỉ tải APK lên thì ứng dụng chưa thể nhận biết phiên bản mới. Thông báo cập nhật ghi đúng phiên bản, dung lượng và mã SHA-256 của APK đã ký; không chứa thông tin đăng nhập. Giữ nguyên chữ ký ứng dụng giữa các bản để cài đè được.
+
 ## Dùng trên iPhone
 
 Mở đường dẫn bằng Safari, bấm **Chia sẻ → Thêm vào Màn hình chính → Thêm**. Nếu Safari dùng thanh gọn, mở menu của trang để tìm Chia sẻ. Nếu xuất hiện lựa chọn mở dưới dạng ứng dụng web, bật lựa chọn đó.

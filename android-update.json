@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "applicationId": "vn.qlsc.luoidien",
+  "versionCode": 215000,
+  "versionName": "2.15.0",
+  "minSdk": 26,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.15.0.apk",
+  "sha256": "67baf10ce731f88373d49995a1ca7b3947074537192cc417dbdefca03f0c1edc",
+  "sizeBytes": 2272308,
+  "notes": [
+    "Tự kiểm tra bản mới ở nền, không làm gián đoạn công việc.",
+    "Thêm mục Cập nhật ứng dụng trong Menu để kiểm tra và tải bản mới.",
+    "Kiểm tra đầy đủ bản cài trước khi mở bước cập nhật của điện thoại."
+  ],
+  "publishedAt": "2026-10-13T18:10:38Z"
+}
