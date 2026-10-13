@@ -1,5 +1,5 @@
-const BUILD_ID="e17158b657357f96e996";
-const PUBLIC_FILES=["assets/app-B1HBvy2m.js","assets/style-C6nUvGKh.css","icons/app-180.png","icons/app-192.png","icons/app-512.png","icons/app.svg","index.html","manifest.webmanifest"];
+const BUILD_ID="e1926705a12b4de14897";
+const PUBLIC_FILES=["assets/app-C3j6UJ9M.js","assets/style-C6nUvGKh.css","icons/app-180.png","icons/app-192.png","icons/app-512.png","icons/app.svg","index.html","manifest.webmanifest"];
 /* Public application shell only. No background business requests, location, photos or saved sessions. */
 const CACHE_PREFIX='qltt-public:'+self.registration.scope;
 const CACHE_NAME=CACHE_PREFIX+BUILD_ID;

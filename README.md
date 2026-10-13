@@ -1,8 +1,8 @@
 # Quản lý tồn tại lưới điện
 
-Giao diện web 1.12.0 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
+Giao diện web 1.12.1 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
 
-[Mở ứng dụng](https://dlthoibinh.github.io/qltt-luoi-dien/).
+[Cài Android hoặc iPhone](https://dlthoibinh.github.io/qltt-luoi-dien/install.html) · [Mở ứng dụng](https://dlthoibinh.github.io/qltt-luoi-dien/).
 
 ## Dùng trên iPhone
 
@@ -16,7 +16,7 @@ Cần có mạng để tải hoặc gửi hồ sơ. Phần giao diện có thể
 
 ## Nội dung kho này
 
-Kho chỉ chứa các tệp giao diện công khai đã biên dịch, biểu tượng và cấu hình cài màn hình chính. Dữ liệu nghiệp vụ và quyền truy cập được xử lý ở hệ thống Google của chủ ứng dụng; tài khoản, mật khẩu, ảnh và khóa dịch vụ không nằm trong kho này.
+Kho chứa giao diện công khai đã biên dịch, biểu tượng, cấu hình cài màn hình chính và APK Android dùng thử đã ký. Dữ liệu nghiệp vụ và quyền truy cập được xử lý ở hệ thống Google của chủ ứng dụng; tài khoản, mật khẩu, ảnh và khóa dịch vụ không nằm trong kho này.
 
 Service worker chỉ lưu tệp giao diện công khai thuộc ứng dụng. Không lưu hồ sơ hoặc ảnh riêng vào bộ nhớ ngoại tuyến.
 
