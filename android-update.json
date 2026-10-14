@@ -2,16 +2,15 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 217000,
-  "versionName": "2.17.0",
+  "versionCode": 217001,
+  "versionName": "2.17.1",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.17.0.apk",
-  "sha256": "887731cf5d33ab569e838296983e35c235366abbc963dd820c38d331ddc575c8",
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.17.1.apk",
+  "sha256": "3a77da086d821d1a9a1bf111efab1750ba5134d2de9bb544a36d85ea1a651892",
   "sizeBytes": 2289124,
   "notes": [
-    "Ba tổ trưởng KT, KD, VH cùng nhận thông báo và tiếp nhận tồn tại mới trong đơn vị.",
-    "Tổ tiếp nhận trước chịu trách nhiệm phân công nhân viên trong tổ xử lý.",
-    "Tổ trưởng, lãnh đạo xem toàn phạm vi quản lý; xuất Excel trên điện thoại."
+    "Bỏ ô chào mừng, đăng nhập lại và cập nhật nổi trên bản đồ khi mở ứng dụng.",
+    "Thử lại kết nối và cập nhật nằm trong menu; xác nhận tài khoản vẫn chạy ở nền."
   ],
-  "publishedAt": "2026-10-14T01:32:06Z"
+  "publishedAt": "2026-10-14T02:21:54Z"
 }
