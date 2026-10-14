@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 224000,
-  "versionName": "2.24.0",
+  "versionCode": 225000,
+  "versionName": "2.25.0",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.24.0.apk",
-  "sha256": "a3086f8d044d97adc922651916cc1437bd7aea8988c533e449b717fcc12ba1d0",
-  "sizeBytes": 20212909,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.25.0.apk",
+  "sha256": "2a6796bd6278fb22970e49135e75f368d4b326ad6f4c15c4ef2db0b34421e77f",
+  "sizeBytes": 20233157,
   "notes": [
-    "Tối ưu bản đồ có nhiều tồn tại: giảm công việc khi kéo và hạn chế tên chồng lên nhau.",
-    "Chuẩn bị tên bản đồ ngoài luồng giao diện; bỏ qua khi đã ẩn tên.",
-    "Giữ đầy đủ điểm tồn tại, quyền xem, chọn chi tiết và chỉ đường."
+    "Lưu bản ghi hiện trường và ảnh trên máy khi mạng yếu, mở lại để tiếp tục.",
+    "Gửi tiếp đúng hồ sơ và ảnh sau khi mất kết nối, hạn chế tạo trùng.",
+    "Phân biệt rõ bản lưu trên máy, yêu cầu chưa xác nhận và hồ sơ đã gửi."
   ],
-  "publishedAt": "2026-10-14T11:41:53Z"
+  "publishedAt": "2026-10-14T12:53:18Z"
 }

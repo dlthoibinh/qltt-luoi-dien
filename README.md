@@ -1,6 +1,6 @@
 # Quản lý tồn tại lưới điện
 
-Giao diện web 1.12.1 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
+Giao diện web 1.17.0 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
 
 [Cài Android hoặc iPhone](https://dlthoibinh.github.io/qltt-luoi-dien/install.html) · [Mở ứng dụng](https://dlthoibinh.github.io/qltt-luoi-dien/).
 
@@ -18,12 +18,12 @@ Mở biểu tượng **Tồn tại lưới điện** ngoài màn hình chính r�
 
 Nhân viên ghi nhận bằng iPhone hoặc ứng dụng Android. Trên máy tính, chỉ quản trị hệ thống được tạo mới để kiểm thử; các vai trò khác vẫn xem và thực hiện công việc theo quyền được cấp.
 
-Cần có mạng để tải hoặc gửi hồ sơ. Phần giao diện có thể mở khi mất mạng, nhưng hồ sơ chưa gửi không được tự lưu thành công hay tự gửi nền. Bản iPhone này có hộp thông báo khi mở ứng dụng, chưa có thông báo đẩy khi đã đóng.
+Khi mạng yếu, app lưu một bản ghi mới đang làm và ảnh đã chuẩn bị riêng theo tài khoản trên thiết bị. Chờ **Đã lưu trên máy** trước khi đóng. Có mạng lại, mở đúng tài khoản rồi bấm **Gửi tiếp / Thử lại**; chỉ **Đã xác nhận trên hệ thống** mới là máy chủ đã nhận. Lần đăng nhập đầu, dữ liệu máy chủ mới và nền bản đồ mới vẫn cần mạng. Không tự gửi nền, không có hàng đợi nhiều hồ sơ mới. Cài đè bản cập nhật; gỡ app hoặc xóa dữ liệu trình duyệt có thể mất phần chưa gửi. Bản iPhone có hộp thông báo khi mở ứng dụng, chưa có thông báo đẩy khi đã đóng.
 
 ## Nội dung kho này
 
 Kho chứa giao diện công khai đã biên dịch, biểu tượng, cấu hình cài màn hình chính và APK Android dùng thử đã ký. Dữ liệu nghiệp vụ và quyền truy cập được xử lý ở hệ thống Google của chủ ứng dụng; tài khoản, mật khẩu, ảnh và khóa dịch vụ không nằm trong kho này.
 
-Service worker chỉ lưu tệp giao diện công khai thuộc ứng dụng. Không lưu hồ sơ hoặc ảnh riêng vào bộ nhớ ngoại tuyến.
+Service worker chỉ lưu tệp giao diện công khai. Bản nháp và ảnh chưa gửi được lưu riêng trong IndexedDB theo điểm kết nối và tài khoản; không nằm trong bộ nhớ đệm công khai của service worker.
 
 Các thư viện đi kèm và thông báo bản quyền nằm trong [THIRD_PARTY_LICENSES.txt](THIRD_PARTY_LICENSES.txt). Nền bản đồ do OpenStreetMap cung cấp, có ghi nguồn trên bản đồ.

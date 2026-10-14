@@ -1,5 +1,5 @@
-const BUILD_ID="48e05e59993bd24324f6";
-const PUBLIC_FILES=["assets/app-U975g-It.js","assets/style-BSlVCVdP.css","icons/app-180.png","icons/app-192.png","icons/app-512.png","icons/app.svg","index.html","manifest.webmanifest"];
+const BUILD_ID="c8616ceddc78533c9d41";
+const PUBLIC_FILES=["assets/app-h6WR1dMu.js","assets/style-BSlVCVdP.css","icons/app-180.png","icons/app-192.png","icons/app-512.png","icons/app.svg","index.html","manifest.webmanifest"];
 /* Public application shell only. No background business requests, location, photos or saved sessions. */
 const CACHE_PREFIX='qltt-public:'+self.registration.scope;
 const CACHE_NAME=CACHE_PREFIX+BUILD_ID;
@@ -12,7 +12,10 @@ self.addEventListener('fetch',event=>{
  const request=event.request,url=new URL(request.url);url.hash='';
  if(request.method!=='GET'||url.search||request.headers.has('authorization')||url.origin!==new URL(self.registration.scope).origin)return;
  const navigation=request.mode==='navigate'&&(url.href===self.registration.scope||url.href===SHELL_URL);
- if(navigation){event.respondWith(fetch(request).then(response=>response.ok?response:caches.open(CACHE_NAME).then(cache=>cache.match(SHELL_URL).then(cached=>cached||response))).catch(()=>caches.open(CACHE_NAME).then(cache=>cache.match(SHELL_URL))));return}
+ // Use the installed shell together with its exact build assets. A weak connection
+ // must not hold an already installed app behind a navigation fetch. The normal
+ // worker update flow checks for a new build separately and activates it explicitly.
+ if(navigation){event.respondWith(caches.open(CACHE_NAME).then(cache=>cache.match(SHELL_URL)).catch(()=>undefined).then(cached=>cached||fetch(request)));return}
  if(!PUBLIC_URLS.has(url.href))return;
  // Exact build files are immutable. Do not add arbitrary same-origin GETs to this cache.
  event.respondWith(caches.open(CACHE_NAME).then(cache=>cache.match(request).then(cached=>cached||fetch(request))));
