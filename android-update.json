@@ -2,17 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 218000,
-  "versionName": "2.18.0",
+  "versionCode": 219000,
+  "versionName": "2.19.0",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.18.0.apk",
-  "sha256": "563b4298d2cea5863a9d33ce1bff7dbe5a09074a9cff27ee606fc44319b20647",
-  "sizeBytes": 20148069,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.19.0.apk",
+  "sha256": "bda3873c5b26ba19a9fed4791d8b50f8dfa99e1820cfdfd03033467eded50bcc",
+  "sizeBytes": 20153713,
   "notes": [
-    "Đổi nền bản đồ đường phố sang OpenFreeMap dạng vector; chưa thêm ảnh vệ tinh.",
-    "Ưu tiên kết nối đăng nhập và đổi mật khẩu, giảm gọi xác minh tài khoản lặp lại.",
-    "Máy chủ giảm đọc dữ liệu thừa khi xác thực, giữ nguyên kiểm tra mật khẩu và quyền.",
-    "Giữ tiếp nhận theo đơn vị, xuất Excel và bản đồ không có ô chào mừng/cập nhật nổi."
+    "Thêm nút chọn bản đồ: Đường phố, Nhiều màu, Nền sáng và Nền tối.",
+    "Bật hoặc tắt tên đường, địa danh; ghi nhớ lựa chọn cho lần mở sau.",
+    "Đổi kiểu bản đồ giữ nguyên vị trí đang xem, GPS và điểm tồn tại."
   ],
-  "publishedAt": "2026-10-14T03:05:01Z"
+  "publishedAt": "2026-10-14T03:42:55Z"
 }
