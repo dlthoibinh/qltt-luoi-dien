@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 220000,
-  "versionName": "2.20.0",
+  "versionCode": 221000,
+  "versionName": "2.21.0",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.20.0.apk",
-  "sha256": "0ea8e71e0ae94366a3a38bc1471e56bb2bd1e55bb345b6954e03a02a3f576066",
-  "sizeBytes": 20169564,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.21.0.apk",
+  "sha256": "fc8c556275f339b8f11a66804a92fee385204f840dbb06247f165c2c44ee45a9",
+  "sizeBytes": 20171745,
   "notes": [
-    "Thêm nút Chỉ đường tại điểm tồn tại để mở Google Maps đến đúng tọa độ.",
-    "Mở chỉ đường ngay từ thông tin đã tải hoặc bản lưu, không chờ tải ảnh và hồ sơ.",
-    "Giữ bốn kiểu bản đồ đường phố; không hiển thị lựa chọn vệ tinh khi dịch vụ chưa được kích hoạt."
+    "Thêm nền vệ tinh Esri cùng nguồn ảnh với app Trực ca, xem chung các điểm tồn tại.",
+    "Bật tắt tên đường và địa danh, ghi nhớ kiểu bản đồ đã chọn.",
+    "Giữ nút Chỉ đường để mở Google Maps đến tọa độ tồn tại và lựa chọn quay lại nền đường phố."
   ],
-  "publishedAt": "2026-10-14T06:33:07Z"
+  "publishedAt": "2026-10-14T07:27:41Z"
 }
