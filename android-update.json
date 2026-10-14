@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 223000,
-  "versionName": "2.23.0",
+  "versionCode": 223001,
+  "versionName": "2.23.1",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.23.0.apk",
-  "sha256": "d74ad2b510c57a9e21fc824a924757d1e69d001d2fd8f0b770178cdaf212067f",
-  "sizeBytes": 20205285,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.23.1.apk",
+  "sha256": "0a7b995e8d93c1cfadfd3db169547e6fbc14b20d85bea78a9da7a735374f2627",
+  "sizeBytes": 20208109,
   "notes": [
-    "Thêm Quên mật khẩu bằng mã xác nhận gửi đến email đã xác minh.",
-    "Bổ sung email, số điện thoại và nơi công tác ngay sau đăng nhập khi còn thiếu.",
-    "Lưu hồ sơ trước, xác minh email theo yêu cầu; không thêm lượt gọi khi đăng nhập."
+    "Thay hai nút phóng to, thu nhỏ trên điện thoại bằng nút hiện hoặc ẩn tên tồn tại.",
+    "Ghi nhớ lựa chọn hiển thị tên trên thiết bị; vẫn dùng hai ngón tay để phóng bản đồ.",
+    "Giữ nguyên điểm tồn tại, chọn chi tiết và chỉ đường khi ẩn tên."
   ],
-  "publishedAt": "2026-10-14T10:40:39Z"
+  "publishedAt": "2026-10-14T11:02:43Z"
 }
