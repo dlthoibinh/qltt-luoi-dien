@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 219000,
-  "versionName": "2.19.0",
+  "versionCode": 219001,
+  "versionName": "2.19.1",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.19.0.apk",
-  "sha256": "bda3873c5b26ba19a9fed4791d8b50f8dfa99e1820cfdfd03033467eded50bcc",
-  "sizeBytes": 20153713,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.19.1.apk",
+  "sha256": "e42100ac3e7ad7243fbf4ce2a4bc9a524d4dae293c0fa474c6c1fae1bdd762bc",
+  "sizeBytes": 20154909,
   "notes": [
-    "Thêm nút chọn bản đồ: Đường phố, Nhiều màu, Nền sáng và Nền tối.",
-    "Bật hoặc tắt tên đường, địa danh; ghi nhớ lựa chọn cho lần mở sau.",
-    "Đổi kiểu bản đồ giữ nguyên vị trí đang xem, GPS và điểm tồn tại."
+    "Sửa danh sách tổ ghi nhận: chọn đủ KT, KD, VH đang hoạt động trong đơn vị được phép.",
+    "Ghi nhận sang tổ khác cùng đơn vị; nguồn người ghi nhận vẫn giữ theo tài khoản thật.",
+    "Bổ sung làm mới danh sách tổ; giữ đúng phạm vi chuyên đề, tiếp nhận và phân công."
   ],
-  "publishedAt": "2026-10-14T03:42:55Z"
+  "publishedAt": "2026-10-14T04:25:06Z"
 }
