@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 222001,
-  "versionName": "2.22.1",
+  "versionCode": 223000,
+  "versionName": "2.23.0",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.22.1.apk",
-  "sha256": "4e77f2819a2538947bb8a557765f0bdc5ba526969dcefb6cad20f75070dd9c4b",
-  "sizeBytes": 20188257,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.23.0.apk",
+  "sha256": "d74ad2b510c57a9e21fc824a924757d1e69d001d2fd8f0b770178cdaf212067f",
+  "sizeBytes": 20205285,
   "notes": [
-    "Bổ sung thông tin tác giả trong mục Giới thiệu và phiên bản.",
-    "Chỉ đạo trực tiếp: Quách Hữu Toại, Phó trưởng Điện lực Thới Bình.",
-    "Lập trình và tối ưu ứng dụng: Lại Văn Lâm."
+    "Thêm Quên mật khẩu bằng mã xác nhận gửi đến email đã xác minh.",
+    "Bổ sung email, số điện thoại và nơi công tác ngay sau đăng nhập khi còn thiếu.",
+    "Lưu hồ sơ trước, xác minh email theo yêu cầu; không thêm lượt gọi khi đăng nhập."
   ],
-  "publishedAt": "2026-10-14T09:14:29Z"
+  "publishedAt": "2026-10-14T10:40:39Z"
 }
