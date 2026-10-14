@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 215001,
-  "versionName": "2.15.1",
+  "versionCode": 216000,
+  "versionName": "2.16.0",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.15.1.apk",
-  "sha256": "bb075eb6d1aad73d9524e646039879596aa2b609b37ba331ccc0b18fa91d6fbd",
-  "sizeBytes": 2272328,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.16.0.apk",
+  "sha256": "ce382e636369fb1124a2bdd81ef639d438f6a6f3db0b992849efb72f75db0a62",
+  "sizeBytes": 2272332,
   "notes": [
-    "Tự kiểm tra bản mới ở nền, không làm gián đoạn công việc.",
-    "Thêm mục Cập nhật ứng dụng trong Menu để kiểm tra và tải bản mới.",
-    "Kiểm tra đầy đủ bản cài trước khi mở bước cập nhật của điện thoại."
+    "Hiện ngay nền bản đồ đã xem; tự tải lại phần thiếu khi mạng trở lại.",
+    "Giảm chờ khi chuyển bộ lọc, mở app và kiểm tra tài khoản.",
+    "Ưu tiên mạng cho công việc; tải APK tự động khi ứng dụng ở nền."
   ],
-  "publishedAt": "2026-10-13T18:27:36Z"
+  "publishedAt": "2026-10-14T00:29:58Z"
 }
