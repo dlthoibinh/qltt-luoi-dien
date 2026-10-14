@@ -10,6 +10,10 @@ Từ APK 2.15.0, ứng dụng tự kiểm tra bản mới ở nền và tải s�
 
 Mỗi lần phát hành phải đưa lên cùng bộ: APK mới trong `downloads/`, `install.html` và `android-update.json`. Chỉ tải APK lên thì ứng dụng chưa thể nhận biết phiên bản mới. Thông báo cập nhật ghi đúng phiên bản, dung lượng và mã SHA-256 của APK đã ký; không chứa thông tin đăng nhập. Giữ nguyên chữ ký ứng dụng giữa các bản để cài đè được.
 
+### Âm thông báo QLTT từ Android 2.25.1
+
+Mở **Chức năng → Trạng thái kết nối → Thông báo trên điện thoại → Dùng âm QLTT**. Có nút **Nghe thử âm QLTT** để nghe mẫu. Máy cài mới mặc định dùng âm QLTT; máy đã cài app giữ âm cũ tới khi chọn. Các nhóm đã tắt hoặc im lặng vẫn được giữ; Android tiếp tục áp dụng âm lượng và Không làm phiền. Âm đã có trong APK, không cần tải hay chép tệp riêng. Web/iPhone không thêm âm thông báo nền.
+
 ## Dùng trên iPhone
 
 Mở đường dẫn bằng Safari, bấm **Chia sẻ → Thêm vào Màn hình chính → Thêm**. Nếu Safari dùng thanh gọn, mở menu của trang để tìm Chia sẻ. Nếu xuất hiện lựa chọn mở dưới dạng ứng dụng web, bật lựa chọn đó.

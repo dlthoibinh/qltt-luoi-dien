@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 225000,
-  "versionName": "2.25.0",
+  "versionCode": 225001,
+  "versionName": "2.25.1",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.25.0.apk",
-  "sha256": "2a6796bd6278fb22970e49135e75f368d4b326ad6f4c15c4ef2db0b34421e77f",
-  "sizeBytes": 20233157,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.25.1.apk",
+  "sha256": "a8dc49e582f387d742ae2bba1653ed48a3b8ff5e0a7b721cb6305c2f6a5bb52e",
+  "sizeBytes": 20371985,
   "notes": [
-    "Lưu bản ghi hiện trường và ảnh trên máy khi mạng yếu, mở lại để tiếp tục.",
-    "Gửi tiếp đúng hồ sơ và ảnh sau khi mất kết nối, hạn chế tạo trùng.",
-    "Phân biệt rõ bản lưu trên máy, yêu cầu chưa xác nhận và hồ sơ đã gửi."
+    "Thêm âm báo Tín hiệu QLTT được tạo riêng, có sẵn trong ứng dụng.",
+    "Nghe thử và chọn âm QLTT tại Chức năng → Trạng thái kết nối.",
+    "Giữ lựa chọn âm thanh hiện tại khi cập nhật và tôn trọng chế độ im lặng của điện thoại."
   ],
-  "publishedAt": "2026-10-14T12:53:18Z"
+  "publishedAt": "2026-10-14T13:26:34Z"
 }
