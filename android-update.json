@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 231000,
-  "versionName": "2.31.0",
+  "versionCode": 232000,
+  "versionName": "2.32.0",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.31.0.apk",
-  "sha256": "20316d6fedf74a76440451ceb5effb58b0d01b8144430e4838cbf2be56987baf",
-  "sizeBytes": 20445157,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.32.0.apk",
+  "sha256": "82adc2f624c96ef4ddff38c9ced901ece6b42c5c1f4782c98dd345014f99bd7b",
+  "sizeBytes": 20452673,
   "notes": [
-    "Bản đồ tự tải đủ hồ sơ trong vùng đang xem sau khi kéo hoặc thu phóng.",
-    "Gom các điểm gần nhau thành nhóm có số lượng; chọn từng hồ sơ kể cả khi trùng tọa độ.",
-    "Tải dữ liệu điểm gọn nhẹ, giữ vị trí bản đồ và bỏ kết quả cũ khi đổi vùng hoặc bộ lọc."
+    "Giảm tải lại dữ liệu khi chỉ một vài hồ sơ thay đổi; vẫn kiểm tra đủ hồ sơ trong vùng đang xem.",
+    "Gộp các yêu cầu làm mới trùng nhau, giữ vị trí bản đồ và dữ liệu đang xem.",
+    "Tự tải lại đầy đủ khi chưa xác nhận được bản dữ liệu trước hoặc phạm vi xem đã thay đổi."
   ],
-  "publishedAt": "2026-10-15T05:27:29Z"
+  "publishedAt": "2026-10-15T06:58:47Z"
 }
