@@ -1,10 +1,12 @@
 # Quản lý tồn tại lưới điện
 
-Giao diện web 1.21.0 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
+Giao diện web 1.22.0 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
 
 [Cài Android hoặc iPhone](https://dlthoibinh.github.io/qltt-luoi-dien/install.html) · [Mở ứng dụng](https://dlthoibinh.github.io/qltt-luoi-dien/).
 
 ## Cập nhật Android
+
+Từ Android **2.31.0** và web **1.22.0**, kéo hoặc thu phóng bản đồ để tự tải các điểm trong vùng đang xem theo bộ lọc. App tiếp tục tải các phần còn lại khi có nhiều hồ sơ; không lấy trang đầu làm toàn bộ bản đồ. Điểm gần nhau hiện thành nhóm có số lượng, cho chọn từng hồ sơ kể cả khi trùng tọa độ. Danh sách vẫn phân trang toàn bộ và có cả hồ sơ chưa có tọa độ.
 
 Từ Android **2.30.0**, mở **Nháp / Chờ gửi** để quản lý nhiều bản ghi trên máy theo tài khoản. **Ghi điểm mới** giữ nháp trước để tiếp tục ghi nhận, kể cả khi lần gửi trước chưa rõ kết quả. Khi có mạng, mở từng nháp và bấm gửi tiếp; giữ nguyên nội dung, ảnh và mã yêu cầu để tránh tạo trùng. Nháp cũ được chuyển sang cách lưu mới khi cài đè. Không tự gửi khi app đóng.
 
