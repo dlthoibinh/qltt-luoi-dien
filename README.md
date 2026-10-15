@@ -6,6 +6,8 @@ Giao diện web 1.25.0 dành cho việc ghi nhận và theo dõi tồn tại lư
 
 ## Cập nhật Android
 
+Android **2.34.2** hạ cụm 5 nút bản đồ bên phải xuống gần mép dưới để dễ thao tác. Giữ thứ tự, biểu tượng và cách tải dữ liệu của bản trước. Cài đè để giữ dữ liệu trên máy.
+
 Android **2.34.1** thống nhất các nút bản đồ với web: Danh sách, hiện các điểm đã tải, vị trí, làm mới, bật/tắt tên. Biểu tượng, nút tròn sáng và trạng thái đang chọn dùng cùng mẫu; nút Ghi nhận tồn tại nằm dưới trái. Chọn kiểu nền qua **Bộ lọc bản đồ → Kiểu bản đồ**. Cài đè để giữ dữ liệu trên máy.
 
 Android **2.34.0** và web **1.25.0** dùng lại các vùng bản đồ đã tải, lấy thêm khoảng đệm quanh màn hình và đồng bộ phần thay đổi khi đến kỳ làm mới khoảng 2–2,5 phút. Bộ lọc gọn thành một nút; vòng xoay nhỏ ở góc thay các thanh tải ngang. Mở bộ lọc để xem trạng thái, đổi điều kiện hoặc làm mới. Khi mạng yếu, điểm đã tải còn hạn vẫn hiện cùng dấu báo nhỏ.
