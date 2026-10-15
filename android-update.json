@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 227000,
-  "versionName": "2.27.0",
+  "versionCode": 228000,
+  "versionName": "2.28.0",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.27.0.apk",
-  "sha256": "070e34ac1404f14721152d03d5eeb50ef96ee220cd1bf032130935f6190ca427",
-  "sizeBytes": 20387501,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.28.0.apk",
+  "sha256": "a3feec1ce6166941aa68bf59a862bdb72f990b4720b0add128230fa72ff37783",
+  "sizeBytes": 20393565,
   "notes": [
-    "Admin được chỉnh sửa và xóa tồn tại trong phạm vi quản lý; lưu lịch sử thao tác.",
-    "Xác nhận trước khi xóa và kiểm tra thay đổi đồng thời để tránh ghi đè dữ liệu.",
-    "Ghi nhớ tên đăng nhập sau khi đăng xuất hoặc mở lại ứng dụng."
+    "Giữ nội dung admin đang nhập khi hồ sơ được người khác cập nhật.",
+    "Đối chiếu các trường cùng thay đổi trước khi lưu; nhận dữ liệu mới ở phần chưa sửa.",
+    "Xác nhận trước khi đóng màn hình có thay đổi chưa lưu."
   ],
-  "publishedAt": "2026-10-15T00:37:02Z"
+  "publishedAt": "2026-10-15T02:14:26Z"
 }
