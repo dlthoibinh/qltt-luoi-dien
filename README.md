@@ -1,10 +1,12 @@
 # Quản lý tồn tại lưới điện
 
-Giao diện web 1.24.0 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
+Giao diện web 1.25.0 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
 
 [Cài Android hoặc iPhone](https://dlthoibinh.github.io/qltt-luoi-dien/install.html) · [Mở ứng dụng](https://dlthoibinh.github.io/qltt-luoi-dien/).
 
 ## Cập nhật Android
+
+Android **2.34.0** và web **1.25.0** dùng lại các vùng bản đồ đã tải, lấy thêm khoảng đệm quanh màn hình và đồng bộ phần thay đổi khi đến kỳ làm mới khoảng 2–2,5 phút. Bộ lọc gọn thành một nút; vòng xoay nhỏ ở góc thay các thanh tải ngang. Mở bộ lọc để xem trạng thái, đổi điều kiện hoặc làm mới. Khi mạng yếu, điểm đã tải còn hạn vẫn hiện cùng dấu báo nhỏ.
 
 Từ Android **2.33.0** và web **1.24.0**, công việc có bộ lọc **Sắp đến hạn (24 giờ)** và **Quá hạn**, kèm thời điểm hạn xử lý theo giờ Việt Nam. Hệ thống kiểm tra định kỳ 15 phút, nhắc người được giao và tổ trưởng phụ trách, mỗi mốc một lần cho từng lần phân công và hạn xử lý. Lời nhắc cũ được loại khi không còn phù hợp với hạn, người phụ trách hoặc trạng thái hồ sơ. Hộp thông báo trong ứng dụng giữ lời nhắc; thông báo điện thoại còn phụ thuộc kết nối và quyền thông báo.
 

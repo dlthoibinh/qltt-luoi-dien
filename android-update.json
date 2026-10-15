@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 233000,
-  "versionName": "2.33.0",
+  "versionCode": 234000,
+  "versionName": "2.34.0",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.33.0.apk",
-  "sha256": "058f714eb3df3460bc08388d291a2d05174a85403c779ae06822c2a47770f60f",
-  "sizeBytes": 20460949,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.34.0.apk",
+  "sha256": "2b208852235a8161c5e1310440c26a34aa909bfbade9eee667a90a4cb100939b",
+  "sizeBytes": 20467989,
   "notes": [
-    "Nhắc sắp đến hạn trong vòng 24 giờ và quá hạn cho người được giao, tổ trưởng phụ trách.",
-    "Lọc công việc sắp đến hạn hoặc quá hạn; xem giờ hạn xử lý theo giờ Việt Nam.",
-    "Mỗi mốc nhắc một lần cho từng lần phân công và hạn xử lý; bỏ lời nhắc cũ khi hồ sơ thay đổi."
+    "Bản đồ dùng lại các vùng đã tải, cập nhật nền phần thay đổi và hạn chế yêu cầu khi kéo.",
+    "Bộ lọc thu gọn thành một nút; vòng xoay nhỏ ở góc thay cho các thanh tải che bản đồ.",
+    "Giữ điểm đã tải khi mạng yếu, thêm thử lại và trạng thái cache trong bộ lọc."
   ],
-  "publishedAt": "2026-10-15T08:08:46Z"
+  "publishedAt": "2026-10-15T11:29:56Z"
 }
