@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 229000,
-  "versionName": "2.29.0",
+  "versionCode": 230000,
+  "versionName": "2.30.0",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.29.0.apk",
-  "sha256": "c2265f9347aab5490dfb7c0dcbed0b279b51ea140f142e988a360514faaf57a6",
-  "sizeBytes": 20408813,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.30.0.apk",
+  "sha256": "d049dec66f4e203c00d7c41a42a0e247f63b06c68fdd45878f477e15a7c437e7",
+  "sizeBytes": 20430853,
   "notes": [
-    "Thêm Thùng rác để quản trị viên tìm, xem và khôi phục tồn tại trong phạm vi quản lý.",
-    "Khôi phục có lý do, xác nhận và lịch sử; giữ trạng thái, ảnh và nội dung hồ sơ.",
-    "Hồ sơ đã xóa được chuyển khỏi bảng dữ liệu chính qua quy trình lưu trữ đã đối chiếu."
+    "Lưu nhiều nháp theo tài khoản; tiếp tục ghi điểm mới khi hồ sơ trước đang chờ xác nhận.",
+    "Mở Nháp / Chờ gửi để tiếp tục từng hồ sơ, giữ nguyên ảnh và yêu cầu khi thử lại.",
+    "Tự chuyển nháp cũ khi cập nhật; lưu riêng từng nháp và ngăn xóa hồ sơ chưa rõ kết quả gửi."
   ],
-  "publishedAt": "2026-10-15T03:21:25Z"
+  "publishedAt": "2026-10-15T04:16:58Z"
 }

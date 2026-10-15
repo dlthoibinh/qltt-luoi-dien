@@ -6,6 +6,8 @@ Giao diện web 1.21.0 dành cho việc ghi nhận và theo dõi tồn tại lư
 
 ## Cập nhật Android
 
+Từ Android **2.30.0**, mở **Nháp / Chờ gửi** để quản lý nhiều bản ghi trên máy theo tài khoản. **Ghi điểm mới** giữ nháp trước để tiếp tục ghi nhận, kể cả khi lần gửi trước chưa rõ kết quả. Khi có mạng, mở từng nháp và bấm gửi tiếp; giữ nguyên nội dung, ảnh và mã yêu cầu để tránh tạo trùng. Nháp cũ được chuyển sang cách lưu mới khi cài đè. Không tự gửi khi app đóng.
+
 Từ Android 2.29.0 và web 1.21.0, quản trị viên có **Thùng rác** để tìm, xem lý do xóa và khôi phục hồ sơ trong phạm vi quản lý. Khôi phục giữ trạng thái, ảnh và lịch sử, yêu cầu lý do và xác nhận. Hồ sơ đã xóa được chuyển khỏi bảng dữ liệu chính trong lần bảo trì tiếp theo sau khi bản lưu được đối chiếu, kể cả hồ sơ chưa hoàn thành.
 
 Bản Android 2.28.0 và web 1.20.0 giữ nội dung admin đang nhập khi có người khác cập nhật hồ sơ. Phần chưa sửa nhận dữ liệu mới; phần hai người cùng sửa cần được đối chiếu và chọn trước khi lưu. Đóng màn hình có thay đổi chưa lưu sẽ hỏi tiếp tục chỉnh hoặc bỏ thay đổi. Nội dung đang sửa chưa được gửi tự động lên máy chủ.
@@ -28,7 +30,7 @@ Mở biểu tượng **Tồn tại lưới điện** ngoài màn hình chính r�
 
 Nhân viên ghi nhận bằng iPhone hoặc ứng dụng Android. Trên máy tính, chỉ quản trị hệ thống được tạo mới để kiểm thử; các vai trò khác vẫn xem và thực hiện công việc theo quyền được cấp.
 
-Khi mạng yếu, app lưu một bản ghi mới đang làm và ảnh đã chuẩn bị riêng theo tài khoản trên thiết bị. Chờ **Đã lưu trên máy** trước khi đóng. Có mạng lại, mở đúng tài khoản rồi bấm **Gửi tiếp / Thử lại**; chỉ **Đã xác nhận trên hệ thống** mới là máy chủ đã nhận. Lần đăng nhập đầu, dữ liệu máy chủ mới và nền bản đồ mới vẫn cần mạng. Không tự gửi nền, không có hàng đợi nhiều hồ sơ mới. Cài đè bản cập nhật; gỡ app hoặc xóa dữ liệu trình duyệt có thể mất phần chưa gửi. Bản iPhone có hộp thông báo khi mở ứng dụng, chưa có thông báo đẩy khi đã đóng.
+Khi mạng yếu, web/iPhone lưu một bản ghi mới đang làm và ảnh đã chuẩn bị riêng theo tài khoản trên thiết bị. Chờ **Đã lưu trên máy** trước khi đóng. Có mạng lại, mở đúng tài khoản rồi bấm **Gửi tiếp / Thử lại**; chỉ **Đã xác nhận trên hệ thống** mới là máy chủ đã nhận. Lần đăng nhập đầu, dữ liệu máy chủ mới và nền bản đồ mới vẫn cần mạng. Web/iPhone chưa có nhiều nháp như Android 2.30.0. Không tự gửi nền. Cài đè bản cập nhật; gỡ app hoặc xóa dữ liệu trình duyệt có thể mất phần chưa gửi. Bản iPhone có hộp thông báo khi mở ứng dụng, chưa có thông báo đẩy khi đã đóng.
 
 ## Nội dung kho này
 
