@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 228000,
-  "versionName": "2.28.0",
+  "versionCode": 229000,
+  "versionName": "2.29.0",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.28.0.apk",
-  "sha256": "a3feec1ce6166941aa68bf59a862bdb72f990b4720b0add128230fa72ff37783",
-  "sizeBytes": 20393565,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.29.0.apk",
+  "sha256": "c2265f9347aab5490dfb7c0dcbed0b279b51ea140f142e988a360514faaf57a6",
+  "sizeBytes": 20408813,
   "notes": [
-    "Giữ nội dung admin đang nhập khi hồ sơ được người khác cập nhật.",
-    "Đối chiếu các trường cùng thay đổi trước khi lưu; nhận dữ liệu mới ở phần chưa sửa.",
-    "Xác nhận trước khi đóng màn hình có thay đổi chưa lưu."
+    "Thêm Thùng rác để quản trị viên tìm, xem và khôi phục tồn tại trong phạm vi quản lý.",
+    "Khôi phục có lý do, xác nhận và lịch sử; giữ trạng thái, ảnh và nội dung hồ sơ.",
+    "Hồ sơ đã xóa được chuyển khỏi bảng dữ liệu chính qua quy trình lưu trữ đã đối chiếu."
   ],
-  "publishedAt": "2026-10-15T02:14:26Z"
+  "publishedAt": "2026-10-15T03:21:25Z"
 }

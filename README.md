@@ -1,10 +1,12 @@
 # Quản lý tồn tại lưới điện
 
-Giao diện web 1.20.0 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
+Giao diện web 1.21.0 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
 
 [Cài Android hoặc iPhone](https://dlthoibinh.github.io/qltt-luoi-dien/install.html) · [Mở ứng dụng](https://dlthoibinh.github.io/qltt-luoi-dien/).
 
 ## Cập nhật Android
+
+Từ Android 2.29.0 và web 1.21.0, quản trị viên có **Thùng rác** để tìm, xem lý do xóa và khôi phục hồ sơ trong phạm vi quản lý. Khôi phục giữ trạng thái, ảnh và lịch sử, yêu cầu lý do và xác nhận. Hồ sơ đã xóa được chuyển khỏi bảng dữ liệu chính trong lần bảo trì tiếp theo sau khi bản lưu được đối chiếu, kể cả hồ sơ chưa hoàn thành.
 
 Bản Android 2.28.0 và web 1.20.0 giữ nội dung admin đang nhập khi có người khác cập nhật hồ sơ. Phần chưa sửa nhận dữ liệu mới; phần hai người cùng sửa cần được đối chiếu và chọn trước khi lưu. Đóng màn hình có thay đổi chưa lưu sẽ hỏi tiếp tục chỉnh hoặc bỏ thay đổi. Nội dung đang sửa chưa được gửi tự động lên máy chủ.
 
