@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 234000,
-  "versionName": "2.34.0",
+  "versionCode": 234001,
+  "versionName": "2.34.1",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.34.0.apk",
-  "sha256": "2b208852235a8161c5e1310440c26a34aa909bfbade9eee667a90a4cb100939b",
-  "sizeBytes": 20467989,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.34.1.apk",
+  "sha256": "6cc4dae2228be780892a61f7b55c9ede4e1573ea255ca25c420fb19f7a8b98b8",
+  "sizeBytes": 20478625,
   "notes": [
-    "Bản đồ dùng lại các vùng đã tải, cập nhật nền phần thay đổi và hạn chế yêu cầu khi kéo.",
-    "Bộ lọc thu gọn thành một nút; vòng xoay nhỏ ở góc thay cho các thanh tải che bản đồ.",
-    "Giữ điểm đã tải khi mạng yếu, thêm thử lại và trạng thái cache trong bộ lọc."
+    "Các nút bản đồ thống nhất với web về biểu tượng, thứ tự, màu sắc và vị trí.",
+    "Danh sách, hiện điểm, vị trí, làm mới và bật/tắt tên nằm cùng một dãy gọn; ghi nhận tồn tại ở góc dưới trái.",
+    "Kiểu nền bản đồ nằm trong bộ lọc; giữ cache vùng và cập nhật phần thay đổi của bản 2.34.0."
   ],
-  "publishedAt": "2026-10-15T11:29:56Z"
+  "publishedAt": "2026-10-15T12:19:27Z"
 }

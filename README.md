@@ -6,6 +6,8 @@ Giao diện web 1.25.0 dành cho việc ghi nhận và theo dõi tồn tại lư
 
 ## Cập nhật Android
 
+Android **2.34.1** thống nhất các nút bản đồ với web: Danh sách, hiện các điểm đã tải, vị trí, làm mới, bật/tắt tên. Biểu tượng, nút tròn sáng và trạng thái đang chọn dùng cùng mẫu; nút Ghi nhận tồn tại nằm dưới trái. Chọn kiểu nền qua **Bộ lọc bản đồ → Kiểu bản đồ**. Cài đè để giữ dữ liệu trên máy.
+
 Android **2.34.0** và web **1.25.0** dùng lại các vùng bản đồ đã tải, lấy thêm khoảng đệm quanh màn hình và đồng bộ phần thay đổi khi đến kỳ làm mới khoảng 2–2,5 phút. Bộ lọc gọn thành một nút; vòng xoay nhỏ ở góc thay các thanh tải ngang. Mở bộ lọc để xem trạng thái, đổi điều kiện hoặc làm mới. Khi mạng yếu, điểm đã tải còn hạn vẫn hiện cùng dấu báo nhỏ.
 
 Từ Android **2.33.0** và web **1.24.0**, công việc có bộ lọc **Sắp đến hạn (24 giờ)** và **Quá hạn**, kèm thời điểm hạn xử lý theo giờ Việt Nam. Hệ thống kiểm tra định kỳ 15 phút, nhắc người được giao và tổ trưởng phụ trách, mỗi mốc một lần cho từng lần phân công và hạn xử lý. Lời nhắc cũ được loại khi không còn phù hợp với hạn, người phụ trách hoặc trạng thái hồ sơ. Hộp thông báo trong ứng dụng giữ lời nhắc; thông báo điện thoại còn phụ thuộc kết nối và quyền thông báo.
