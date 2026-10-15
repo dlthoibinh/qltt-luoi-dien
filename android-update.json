@@ -2,16 +2,16 @@
   "schemaVersion": 1,
   "channel": "stable",
   "applicationId": "vn.qlsc.luoidien",
-  "versionCode": 226000,
-  "versionName": "2.26.0",
+  "versionCode": 227000,
+  "versionName": "2.27.0",
   "minSdk": 26,
-  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.26.0.apk",
-  "sha256": "d2f502b085f59d3751995e3097dff9868093defe5132748d36ff272f85128367",
-  "sizeBytes": 20374717,
+  "apkUrl": "https://dlthoibinh.github.io/qltt-luoi-dien/downloads/QLTT_ANDROID_2.27.0.apk",
+  "sha256": "070e34ac1404f14721152d03d5eeb50ef96ee220cd1bf032130935f6190ca427",
+  "sizeBytes": 20387501,
   "notes": [
-    "Bổ sung giới hạn gọi API theo tài khoản và chức năng; tự chờ đúng thời gian khi máy chủ bận.",
-    "Siết thời hạn phiên đăng nhập, giữ phiên và bản nháp khi kết nối gián đoạn.",
-    "Kiểm tra dung lượng, kích thước và số lượng ảnh ở cả điện thoại, web và máy chủ."
+    "Admin được chỉnh sửa và xóa tồn tại trong phạm vi quản lý; lưu lịch sử thao tác.",
+    "Xác nhận trước khi xóa và kiểm tra thay đổi đồng thời để tránh ghi đè dữ liệu.",
+    "Ghi nhớ tên đăng nhập sau khi đăng xuất hoặc mở lại ứng dụng."
   ],
-  "publishedAt": "2026-10-14T14:13:52Z"
+  "publishedAt": "2026-10-15T00:37:02Z"
 }

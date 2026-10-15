@@ -1,10 +1,12 @@
 # Quản lý tồn tại lưới điện
 
-Giao diện web 1.17.0 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
+Giao diện web 1.19.0 dành cho việc ghi nhận và theo dõi tồn tại lưới điện theo tài khoản, vai trò và phạm vi được cấp.
 
 [Cài Android hoặc iPhone](https://dlthoibinh.github.io/qltt-luoi-dien/install.html) · [Mở ứng dụng](https://dlthoibinh.github.io/qltt-luoi-dien/).
 
 ## Cập nhật Android
+
+Bản Android 2.27.0 bổ sung nút sửa/xóa tồn tại cho admin trong phạm vi được cấp, có xác nhận và lịch sử thao tác. Android và web cùng ghi nhớ tên đăng nhập sau khi đăng nhập thành công; tên vẫn được điền sẵn sau khi đăng xuất hoặc mở lại. Mật khẩu không được lưu cùng tên đăng nhập.
 
 Từ APK 2.15.0, ứng dụng tự kiểm tra bản mới ở nền và tải sẵn khi có Wi-Fi phù hợp. Người dùng xác nhận cài đặt khi sẵn sàng; không cần gỡ bản cũ. Muốn kiểm tra ngay, chọn **Menu → Cập nhật ứng dụng**. Các bản 2.14.0 trở về trước cần tải và cài đè bản mới từ trang cài đặt một lần.
 
